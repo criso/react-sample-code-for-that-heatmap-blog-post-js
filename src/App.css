@@ -1,10 +1,3 @@
-/*
- 1rem = 16px;
- These are styles pulled from:
- https://github.com/tachyons-css/tachyons/blob/master/css/tachyons.css
- */
-
-
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
@@ -22,6 +15,12 @@ ul, li {
   margin: 0;
   padding: 0;
 }
+
+/*
+ 1rem = 16px;
+ These are styles pulled from:
+ https://github.com/tachyons-css/tachyons/blob/master/css/tachyons.css
+ */
 
 /* Display */
 .dn { display: none; }
